@@ -23,11 +23,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Roberto García Antobio"
+  name             : "Roberto García Antonio"
   pronouns         : # example: "she/her"  
   bio              : ""
   location         : "Mexico"
-  employer         : ""
+ # employer         : ""
   uri              : # URL
   email            : "antonmaths35@outlook.com" 
 
